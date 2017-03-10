@@ -14,7 +14,7 @@ p {
   line-height: 4rem;
 }
 
-.intro h1 p {
+p, h1 {
   text-align: center;
 }
 
