@@ -1,0 +1,44 @@
+body {
+  font-family: 'Baloo Bhaina', cursive;
+  color: #fff;
+}
+
+h1 {
+  font-size: 8rem;
+  color: #FDB927;
+}
+
+p {
+  font-size: 3.5rem;
+  color: #552582;
+  line-height: 4rem;
+}
+
+.intro p {
+  color: #fff;
+}
+
+.slide p {
+  max-width: 1100px;
+  display: block;
+  margin: 0 auto;
+}
+
+.section {
+  padding: 0 100px;
+}
+
+.fp-slidesNav.bottom {
+    bottom: 50px;
+}
+
+@media screen and (min-width: 1800px) {
+  h1 {
+    font-size: 6rem;
+  }
+
+  p {
+    font-size: 5.5rem;
+    max-width: 1400px;
+  }
+}
